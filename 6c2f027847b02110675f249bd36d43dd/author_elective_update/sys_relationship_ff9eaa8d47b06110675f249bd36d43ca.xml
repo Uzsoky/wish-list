@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_928926_wish_list_wish_item</basic_apply_to>
+        <basic_query_from>x_928926_wish2_lis_wish_item</basic_query_from>
+        <insert_callback/>
+        <name>wishToWish2</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:11:13</sys_created_on>
+        <sys_id>ff9eaa8d47b06110675f249bd36d43ca</sys_id>
+        <sys_name>wishToWish2</sys_name>
+        <sys_package display_value="Wish2 List" source="x_928926_wish2_lis">6c2f027847b02110675f249bd36d43dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish2 List">6c2f027847b02110675f249bd36d43dd</sys_scope>
+        <sys_update_name>sys_relationship_ff9eaa8d47b06110675f249bd36d43ca</sys_update_name>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=ff9eaa8d47b06110675f249bd36d43ca"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish2 List">6c2f027847b02110675f249bd36d43dd</application>
+        <file_path/>
+        <instance_id>a3f3e709db0bbb4091232f17d4961924</instance_id>
+        <instance_name>dev90390</instance_name>
+        <name>sys_relationship_ff9eaa8d47b06110675f249bd36d43ca</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;
+    &lt;sys_relationship action="INSERT_OR_UPDATE"&gt;
+        &lt;advanced&gt;false&lt;/advanced&gt;
+        &lt;apply_to/&gt;
+        &lt;basic_apply_to&gt;x_928926_wish_list_wish_item&lt;/basic_apply_to&gt;
+        &lt;basic_query_from&gt;x_928926_wish2_lis_wish_item&lt;/basic_query_from&gt;
+        &lt;insert_callback/&gt;
+        &lt;name&gt;wishToWish2&lt;/name&gt;
+        &lt;query_from/&gt;
+        &lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;
+        &lt;reference_field/&gt;
+        &lt;related_list/&gt;
+        &lt;simple_reference&gt;false&lt;/simple_reference&gt;
+        &lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2023-02-02 10:11:13&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;ff9eaa8d47b06110675f249bd36d43ca&lt;/sys_id&gt;
+        &lt;sys_name&gt;wishToWish2&lt;/sys_name&gt;
+        &lt;sys_package display_value="Wish2 List" source="x_928926_wish2_lis"&gt;6c2f027847b02110675f249bd36d43dd&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Wish2 List"&gt;6c2f027847b02110675f249bd36d43dd&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_relationship_ff9eaa8d47b06110675f249bd36d43ca&lt;/sys_update_name&gt;
+    &lt;/sys_relationship&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=ff9eaa8d47b06110675f249bd36d43ca"/&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-97192626</payload_hash>
+        <record_name>wishToWish2</record_name>
+        <reverted_from/>
+        <source>133ad01147786110675f249bd36d4330</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 17:59:33</sys_created_on>
+        <sys_id>bf3ad01147786110675f249bd36d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1861348a4520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-02 17:59:33</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>fb3ad01172786110cbbbe28db023d4f2</update_guid>
+        <update_guid_history>fb3ad01172786110cbbbe28db023d4f2:0,fc58f209a2f06110cb27e3f6919fe9ee:1546640316,370f62cd64b0611074816c26513d233a:-836957264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 18:10:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>0d65e5b4da0d4efea681d5433c8f8024</sys_id>
+        <sys_metadata>ff9eaa8d47b06110675f249bd36d43ca</sys_metadata>
+        <sys_name>wishToWish2</sys_name>
+        <sys_package display_value="Wish2 List" source="x_928926_wish2_lis">6c2f027847b02110675f249bd36d43dd</sys_package>
+        <sys_parent display_value=" Wish Item">f7033d3047702110675f249bd36d4388</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish2 List">6c2f027847b02110675f249bd36d43dd</sys_scope>
+        <sys_scope_delete display_value="">39a895052d214528b201df2121239201</sys_scope_delete>
+        <sys_update_name>sys_relationship_ff9eaa8d47b06110675f249bd36d43ca</sys_update_name>
+        <sys_update_version display_value="sys_relationship_ff9eaa8d47b06110675f249bd36d43ca">bf3ad01147786110675f249bd36d43f2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
