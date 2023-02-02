@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>wish2view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 10:02:50</sys_created_on>
+        <sys_id>bc2d6a4947b06110675f249bd36d43a5</sys_id>
+        <sys_name>Wish2View</sys_name>
+        <sys_package display_value="Wish2 List" source="x_928926_wish2_lis">6c2f027847b02110675f249bd36d43dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish2 List">6c2f027847b02110675f249bd36d43dd</sys_scope>
+        <sys_update_name>sys_ui_view_bc2d6a4947b06110675f249bd36d43a5</sys_update_name>
+        <title>Wish2View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
