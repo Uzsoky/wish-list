@@ -12,7 +12,7 @@
         <map_page/>
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_928926_wish_list_wish_item</name>
+        <name>x_928926_wish2_lis_wish_item</name>
         <order>2</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>59d05af847b02110675f249bd36d4376</sys_id>
-        <sys_name>Create New</sys_name>
+        <sys_name>x_928926_wish2_lis_wish_item</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish2 List" source="x_928926_wish2_lis">6c2f027847b02110675f249bd36d43dd</sys_package>
         <sys_policy/>
